@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Universal-Power-Board.PcbDoc]
+   Generated File[Universal-Power-Board.TXT]
+   Generated File[Universal-Power-Board.LDP]
+   Generated File[Universal-Power-Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:23:49 On 24.12.2025

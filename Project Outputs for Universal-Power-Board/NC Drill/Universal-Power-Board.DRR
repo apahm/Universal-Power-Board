@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Universal-Power-Board.PcbDoc   24.12.2025  11:23:48
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Universal-Power-Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             68        PTH        563.41mm (22.18inch)
+T2      0.8mm (31mil)                                             Round             8         PTH        101.65mm (4.00inch)
+T3      0.92mm (36mil)                                            Round             8         PTH        37.00mm (1.46inch)
+T4      1mm (39mil)                                               Round             12        PTH        266.23mm (10.48inch)
+T5      1.2mm (47mil)                                             Round             12        PTH        212.15mm (8.35inch)
+T6      1.5mm (59mil)                                             Round             14        PTH        195.36mm (7.69inch)
+T7      2.3mm (91mil)                                             Round             4         PTH        43.14mm (1.70inch)
+T8      4.2mm (165mil)                                            Round             4         PTH        404.19mm (15.91inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              130
+
+Total Processing Time (hh:mm:ss) : 00:00:00
